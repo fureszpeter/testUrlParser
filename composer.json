@@ -1,0 +1,22 @@
+{
+    "name": "root/test-url-parser",
+    "description": "Competency test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Furesz Peter",
+            "email": "fureszpeter@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/"
+        }
+    },
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.1"
+    }
+}
